@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/juhovainio/hubsync#readme",
   "dependencies": {
+    "json-query": "^2.2.2",
+    "jsonfile": "^4.0.0",
     "request": "^2.83.0",
     "update-json-file": "^1.1.1"
   }
