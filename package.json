@@ -1,0 +1,23 @@
+{
+  "name": "hubsync",
+  "version": "1.0.0",
+  "description": "Access control sync system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhovainio/hubsync.git"
+  },
+  "author": "Vainio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhovainio/hubsync/issues"
+  },
+  "homepage": "https://github.com/juhovainio/hubsync#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "update-json-file": "^1.1.1"
+  }
+}
